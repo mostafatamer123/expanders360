@@ -1,0 +1,1 @@
+-- This is a placeholder. Use TypeORM migrations in real usage.
